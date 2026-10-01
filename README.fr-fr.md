@@ -253,7 +253,7 @@ Si **Live Option Price** aide votre boutique et améliore l'expérience de vos c
 
 Cela aide à maintenir le développement, la maintenance et les futures mises à jour du projet.
 
-[![Buy me a coffee](./assets/images/pt-br/buy_me_a_coffee.png)](https://www.paypal.com/donate/?hosted_button_id=SPQH2B32XBJUW)
+[![Buy me a coffee](./assets/images/fr-fr/buy_me_a_coffee.png)](https://www.paypal.com/donate/?hosted_button_id=SPQH2B32XBJUW)
 
 ---
 
